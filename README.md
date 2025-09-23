@@ -38,18 +38,18 @@ selection, covariance estimation, constrained portfolio optimization, and backte
 
 ---
 
-## Example Results
-
-Allocation comparison between different optimization methods
-![Portfolio Allocation Comparison](Outputs/BL_weight_chart.png)
-
----
-
-## Repo Contents
+## Repository Contents
 - `black_litterman.ipynb` – main implementation notebook  
 - `requirements.txt` – dependencies  
 - `Outputs/` – selected plots (correlation matrix, allocation comparison, risk contributions)  
 - `report.pdf` – extended theoretical discussion and detailed results  
+
+---
+
+## Example Results
+
+Allocation comparison between different optimization methods
+![Portfolio Allocation Comparison](Outputs/allocation.png)
 
 ---
 
