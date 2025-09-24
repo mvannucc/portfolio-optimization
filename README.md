@@ -39,10 +39,10 @@ selection, covariance estimation, constrained portfolio optimization, and backte
 ---
 
 ## Repository Contents
-- `black_litterman.ipynb` – main implementation notebook  
+- `PortfolioOptimization_BL.ipynb` – main implementation notebook  
 - `requirements.txt` – dependencies  
 - `Outputs/` – selected plots (correlation matrix, allocation comparison, risk contributions)  
-- `report.pdf` – extended theoretical discussion and detailed results  
+- `PortfolioOptimization_BL.pdf` – extended theoretical discussion and detailed results  
 
 ---
 
